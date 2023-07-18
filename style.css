@@ -1,0 +1,19 @@
+.info {
+    font-weight: normal;
+    color: darkslategray;
+}
+.first {
+    color: darkgoldenrod;
+}
+
+*{
+    background-color: whitesmoke;
+}
+img {
+    height: 200px;
+    width: 200px;
+}
+
+#top {
+    background-color:blueviolet;
+}
